@@ -1,0 +1,4 @@
+#Thu Jul 04 10:35:57 MSK 2019
+base.0=/home/user/AndroidStudioProjects/Android-шпион - копия/Android-шпион - копия/Шпион-программа Android/Client/MyApplication5/service/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-client/My_Application.android-spy-client.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android-spy-server/My_Application.android-spy-server.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
