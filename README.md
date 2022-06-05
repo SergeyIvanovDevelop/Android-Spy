@@ -30,7 +30,7 @@ This repository contains the code of a project designed to secretly transfer inf
 
 **Step 4**<br>
 
-4. To start `andorid-spy-client`, you need to give the application the necessary permissions (through settings) and run it once.<br>
+4. To start `andorid-spy-client`, you need to give the application the necessary permissions (through settings) and run it once.<br><br>
 Further, the application will automatically start sending information to the Android-Spy server part. Even after restarting the device, re-enabling the application is not required, because. the service responsible for surveillance will be added to the startup of the device and will be turned on automatically after the restart.
 
 _Note: Because spyware must be secretly installed, then the IP-address (const `IP_SERV`) of the device with the server part of the software must be hard-rooted in the client source code._
