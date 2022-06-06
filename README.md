@@ -64,8 +64,9 @@ This software is capable of receiving information from several devices. Availabl
 This animation demonstrates scenarios for using the Android-Spy.<br>
 
 _Note: This software has been tested on the carrier device of the client part of the software: `Sony Experia XA2 Ultra. Android 9 (Pie)` and device with backend software: `Samsung Galaxy J7. Android 6 (Marshmallow)`._
-
-![](./resources/Android-Spy.gif)
+<p align="center">
+  <img src="./resources/Android-Spy.gif" alt="animated" />
+</p>
 
 ### :bookmark_tabs: Licence ###
 Android Spy is [CC BY-NC-SA 3.0 licensed](./LICENSE).
